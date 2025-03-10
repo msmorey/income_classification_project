@@ -20,3 +20,7 @@ Create some sort of visual thats fun to look at. Have that visual respond dynami
 * .py files
 * AWS (for hosting and API...?)
 * Streamlit (for interface)
+
+## Data Source
+[UCI Machine Learning Repository - 1994 Census Data](https://archive.ics.uci.edu/dataset/2/adult)
+Becker, B. & Kohavi, R. (1996). Adult [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5XW20.
